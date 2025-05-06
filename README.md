@@ -69,18 +69,20 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/zustand-FFD700?style=for-the-badge&logo=graphql&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-239120?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 <br/>
 
 ## Top Repositories -
 [![RoadHelpr](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadHussnainShaker&repo=roadhelpr-frontend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MuhammadHussnainShaker/roadhelpr-frontend)
-[![Pixel Magic](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadHussnainShaker&repo=pixelmagic&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MuhammadHussnainShaker/pixelmagic)
 [![Borectory](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadHussnainShaker&repo=borectory&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MuhammadHussnainShaker/borectory)
+[![Pixel Magic](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadHussnainShaker&repo=pixelmagic&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MuhammadHussnainShaker/pixelmagic)
 
 <p align="left">
   <a href="https://github.com/MuhammadHussnainShaker?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
